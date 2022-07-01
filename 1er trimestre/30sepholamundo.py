@@ -1,0 +1,5 @@
+print("hola mundo")
+print("my name is Maryluna")
+print("grade 9D")
+print("my favorite food is pasta")
+print("i want to say that you are a very good mister")
